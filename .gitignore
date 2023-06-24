@@ -1,0 +1,7 @@
+config.json
+department_notices.txt
+scholarship_notices.txt
+undergrad_notices.txt
+.idea
+__pycache__
+file.log
